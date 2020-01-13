@@ -30,6 +30,11 @@ var matchArray = [
           "challengeType" : "5"
       },
       {
+          "id" : "56533eb9ac21ba0edf2244cf",
+          "name" : "Record Collection",
+          "challengeType" : "5"
+      },
+      {
           "id" : "a3f503de51cf954ede28891d",
           "name" : "Symmetric Difference",
           "challengeType" : "5"
@@ -622,11 +627,6 @@ var matchArray = [
       {
           "id" : "56533eb9ac21ba0edf2244cd",
           "name" : "Accessing Nested Arrays in JSON",
-          "challengeType" : "1"
-      },
-      {
-          "id" : "56533eb9ac21ba0edf2244cf",
-          "name" : "Record Collection",
           "challengeType" : "1"
       },
       {
@@ -1276,7 +1276,7 @@ var matchArray = [
       },
       {
           "id" : "a8e512fbe388ac2f9198f0fa",
-          "name" : "Where art thou",
+          "name" : "Wherefore art thou",
           "challengeType" : "5"
       },
       {

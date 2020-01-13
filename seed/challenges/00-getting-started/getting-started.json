@@ -2,7 +2,7 @@
   "name": "Join to Free Code Camp",
   "order": 1,
   "time": "15 miniutes",
-  "helpRoom": "Help",
+  "helpRoom": "chinese",
   "challenges": [
     {
       "id": "560add10cb82ac38a17513be",
@@ -13,6 +13,12 @@
           "A picture of Free Code Camp's 4 benefits: Get connected, Learn JavaScript, Build your Portfolio, Help nonprofits",
           "欢迎关注微信公众号：FreeCodeCamp，这里不仅有很多高质量的自学编程心得、经验、资料分享，还有备受欢迎的线下活动预告，千万不要错过哦。",
           ""
+        ],
+        [
+          "/images/fcc-weibo.png",
+          "A picture of Free Code Camp's 4 benefits: Get connected, Learn JavaScript, Build your Portfolio, Help nonprofits",
+          "欢迎关注微博账号：FreeCodeCamp，这里不仅有很多高质量的自学编程心得、经验、资料分享，还有备受欢迎的线下活动预告，千万不要错过哦。",
+          "http://weibo.com/FreeCodeCamp"
         ],
         [
           "/images/Elb3dfj.jpg",

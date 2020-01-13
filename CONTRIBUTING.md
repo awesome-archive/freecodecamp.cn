@@ -6,17 +6,17 @@ We welcome pull requests from Free Code Camp campers (our students) and seasoned
 我们欢迎每一位 FreeCodeCamp学员 和 有经验的JavaScript开发人员向我们提交PR！请参照下面这些步骤参与进来：
 
 
-1.  Find an issue that needs assistance by searching for the [Help Wanted](https://github.com/FreeCodeCamp/FreeCodeCamp/labels/help%20wanted) tag.
+1.  Find an issue that needs assistance by searching for the [Help Wanted](https://github.com/FreeCodeCampChina/freecodecamp.cn/labels/help%20wanted) tag.
 
-   通过搜索标记[Help Wanted](https://github.com/FreeCodeCamp/FreeCodeCamp/labels/help%20wanted) 来找到需要帮助的问题。
+   通过搜索标记[Help Wanted](https://github.com/FreeCodeCampChina/freecodecamp.cn/labels/help%20wanted) 来找到需要帮助的问题。
 
 2.  Let us know you are working on it, by posting a comment on the issue.
 
    在问题下面发送一个评论，便于让我们知道你正在着手解决这个问题。
 
-3.  Feel free to ask for help in our [Help Contributors](https://gitter.im/FreeCodeCamp/HelpContributors) Gitter room.
+3.  Feel free to ask for help in our [Help Contributors](https://gitter.im/FreeCodeCamp/chinese) Gitter room.
 
-   你可以自由地在我们的[Help Contributors](https://gitter.im/FreeCodeCamp/HelpContributors)聊天室提问来获得帮助。
+   你可以自由地在我们的[Help Contributors](https://gitter.im/FreeCodeCamp/chinese)聊天室提问来获得帮助。
 
 If you've found a bug that is not on the board, [follow these steps](#found-a-bug).
 
@@ -191,4 +191,4 @@ Be sure to post in the PR conversation that you have made the requested changes.
 - [How to log in to your local FCC site - using GitHub](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/How-To-Log-In-To-Your-Local-FCC-Site)
 - [Contributions Guide - With a demo on fixing a typo](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Contributions-Guide---with-Typo-Demo)
 - [Writing great git commit message](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Writing-great-git-commit-message)
-- [Contributor Chat Support - For the FCC Repositories, and running a local instance] (https://gitter.im/FreeCodeCamp/HelpContributors)
+- [Contributor Chat Support - For the FCC Repositories, and running a local instance] (https://gitter.im/FreeCodeCamp/chinese)

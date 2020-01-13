@@ -2,7 +2,7 @@
   "name": "Responsive Design with Bootstrap",
   "order": 3,
   "time": "5 hours",
-  "helpRoom": "Help",
+  "helpRoom": "chinese",
   "challenges": [
     {
       "id": "bad87fee1348bd9acde08712",
@@ -796,7 +796,7 @@
         "<a href=\"//i.imgur.com/O32cDWE.png\" data-lightbox=\"img-enlarge\"><img class=\"img-responsive\" src=\"//i.imgur.com/O32cDWE.png\" title=\"Click to enlarge\" alt=\"An \"inline\" button is as small as the text it contains. In this image, it's centered. Below it is a \"block-level\" button, which stretches to fill the entire horizontal space.'></a>",
         "通过使用 <code>span</code> 元素，你可以把几个元素放在一起。你甚至可以用此为一个元素的不同部分指定样式。",
         "把 \"Things cats love\" 中的 \"love\" 放到 <code>span</code> 标签下。然后为其添加 <code>text-danger</code> class 来使文字变成红色。",
-        "下面是完成后 \"Top 3 things cats hate\" 元素的显示效果：",
+        "举例，\"Top 3 things cats <code>hate</code>\" 元素的写法如下：",
         "<code>&#60;p&#62;Top 3 things cats &#60;span class = \"text-danger\"&#62;hate:&#60;/span&#62;&#60;/p&#62;</code>"
       ],
       "challengeSeed": [
@@ -1852,7 +1852,7 @@
       ],
       "tests": [
         "assert(code.match(/^\\s*<!--/), 'message: 在增加注释前，在你的 HTML 顶部增加此代码 <code>&#60;!--</code> 。');",
-        "assert(code.match(/<!--(?!(>|->|.*-->.*this line)).*this line.*-->/gi), 'message: 你的注释内容 <code>Only change code above this line</code>.');",
+        "assert(code.match(/<!--\\s*(?!(>|->|.*-->.*this line))\\s*.*this line.*\\s*-->/gi), 'message: 你的注释内容 <code>Only change code above this line</code>.');",
         "assert(code.match(/-->.*\\n+.+/g), 'message: 确保你的注释有闭合代码 <code>--&#62;</code>.');",
         "assert(code.match(/<!--/g).length === code.match(/-->/g).length, 'message: 注意，注释的开始标签和闭合标签数量应该一一对应，保持数量一致。');"
       ],
